@@ -5,7 +5,6 @@ Created on Tue Apr  7 13:09:42 2020
 @author: bdenn
 """
 
-#import itertools
 import string
 import json
 
